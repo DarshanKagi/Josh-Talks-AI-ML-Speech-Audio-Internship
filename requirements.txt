@@ -1,0 +1,54 @@
+# ============================================
+# Josh Talks AI/ML Speech & Audio Internship
+# Complete Dependencies for All 4 Tasks
+# ============================================
+
+# Core ML & Deep Learning
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+sentencepiece>=0.1.99
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+audioread>=3.0.0
+
+# Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+datasets>=2.14.0
+
+# ASR Evaluation
+jiwer>=3.0.0
+editdistance>=0.6.0
+
+# Hindi Language Processing
+indic-nlp-lib>=0.91
+indic-trans>=0.5.0
+
+# Web Interface
+gradio>=4.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Data Access & Utilities
+requests>=2.31.0
+gcsfs>=2023.10.0
+google-cloud-storage>=2.10.0
+tqdm>=4.66.0
+
+# Text Processing & NLP
+regex>=2023.10.0
+Unidecode>=1.3.0
+
+# Development & Testing
+pytest>=7.4.0
+black>=23.10.0
+flake8>=6.1.0
+
+# Visualization (Optional)
+matplotlib>=3.8.0
+seaborn>=0.13.0
